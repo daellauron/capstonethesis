@@ -1,0 +1,21 @@
+bois dito na lang natin ilalagay lahat ng mga files natin para maiorganize ko ung lahat ng files
+
+kasama na dito ung files sa android studio
+
+resources na gagamitin like .png .jpg .docx at kung anu ano pa
+kailangan ninyo i clone ito if nainstall na ung git bash terminal ninyo punta lang kayo sa code tapos kunin nio ung SSH copy nio tapos enter nio ung command na to sa git bash
+	$git clone <tapos ung link na nacopy>
+
+baka kailangan nio din mag set up ng SSH ninyo sa PC ninyo search nio na lang sa google kung papaano
+
+
+ito ung mga need ninyo
+
+install
+
+node.js
+ tapos sa cmd ninyo run nio 
+	npm install
+
+gitbash <-- search nio na lang
+
