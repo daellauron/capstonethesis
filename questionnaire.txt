@@ -1,0 +1,14 @@
+Interview Questions
+
+1.) Do you order drinking water?
+2.) Would you use an application for ordering drinking water?
+3.) Do you have your own container ?
+4.) Do you have difficulties on calling the delivery station?
+
+Evaluation Form (For the application)
+
+1.) The design of the application is pleasing.
+2.) The ease of finding different menus.
+3.) The interface of the application is easy to understand.
+4.) Ability to locate the driver using GPS.
+5.) Ease of ordering of the products.
