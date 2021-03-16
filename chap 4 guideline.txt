@@ -1,0 +1,33 @@
+Chapter 4	RECOMMENDATIONS
+	This chapter includes a summary of
+	the main findings of the study. It also
+	presents the significance of the study,
+	and relates findings to the objectives
+	and problems written in the
+	introduction part of the study.
+	Recommendation/s must be stated in
+	this chapter. This part usually directs
+	the reader to conduct further
+	research on some specific areas
+	related to the study.
+References	This is a list of works cited, as well as
+	works consulted but not cited
+	(example, background reading not
+	necessarily cited) in the construction
+	of the research paper. The list of
+	references is numbered and arranged
+	alphabetically. For format on the
+	writing of references, the IEEE (Institute
+	of Electrical and Electronics Engineers)
+	style of documentation shall be
+	followed.
+Appendices	An appendix or appendices, if any,
+	should be after the bibliography.
+	Appendices include original data,
+	preliminary tests, tabulations, tables
+	that contain data of lesser
+	importance, very lengthy quotations,
+	forms and documents, computer
+	21
+ 
+printouts and other pertinent documents. Appendices should be arranged chronologically as they are cited in the main text. Use capital letters of the English alphabet to track appendices, and always begin with the letter A.
