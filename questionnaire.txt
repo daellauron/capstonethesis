@@ -12,3 +12,8 @@ Evaluation Form (For the application)
 3.) The interface of the application is easy to understand.
 4.) Ability to locate the driver using GPS.
 5.) Ease of ordering of the products.
+
+- are there functions you would like us to add?
+- would you recommend our app to others?
+
+
